@@ -5,3 +5,5 @@
 this is my first readme.md🙂
 
 the idea of this project from a bilibili up"英雄哪里出来"
+
+测试一下push，pull和fetch
